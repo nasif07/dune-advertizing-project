@@ -1,7 +1,6 @@
 import NavBar from '../Components/NavBar';
 import moduleName from '../assets/homeBg.svg';
 import arrowIcon from '../assets/iconArrow.svg'
-import Services from './Services';
 const Banner = () => {
     return (
         <>
@@ -21,7 +20,7 @@ const Banner = () => {
             </div>
 
         </div>
-        <Services></Services>
+        
         </>
     );
 };
