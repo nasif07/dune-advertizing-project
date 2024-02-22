@@ -1,11 +1,8 @@
-
-import './App.css'
-
+import Banner from "./Sections/Banner"
 function App() {
-
   return (
     <>
-      <h1>Vite + React</h1>
+      <Banner></Banner>
     </>
   )
 }
