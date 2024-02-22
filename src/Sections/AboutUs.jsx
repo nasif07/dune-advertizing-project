@@ -1,7 +1,10 @@
 import aeroIcon from "../assets/aeroIcon.svg"
 import aboutImg2 from "../assets/aboutBanner2.png"
 
+
 const About = () => {
+
+    
 
     return (
         <div className="bg-[#FFF4E2] font-Space_Grotesk md:px-10 px-4 ">
