@@ -43,7 +43,7 @@ const About = () => {
                         </div>
                     </div>
                 </div>
-                <div className="md:flex items-center md:gap-8 lg:gap-[132px] md:pt-[150px] md:pb-[100px]">
+                <div className="md:flex items-center md:gap-8 lg:gap-[132px] pt-[150px] pb-[50px]">
 
                     <div className="flex-1 my-[50px] md:my-0">
                         <h1 className="text-[#0D0D0D] text-2xl md:text-[30px] lg:text-[40px] md:leading-tight max-w-[300px]">Why should you choose Dune</h1>
