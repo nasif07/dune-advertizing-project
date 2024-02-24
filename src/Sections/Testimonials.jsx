@@ -18,7 +18,7 @@ const Testimonials = () => {
     const isSmallScreen = window.innerWidth <= 768;
     return (
         <div style={{ background: 'linear-gradient(214deg, #FADE84 -51.05%, #FAB55A 94.68%)' }} className="md:px-10 px-4 py-[80px]">
-            <div className='max-w-[1160px] mx-auto'>
+            <div className='max-w-[1160px] mx-auto font-DM_sans'>
                 <h1 className="text-[40px] font-bold text-white pb-[30px]">Testimonials</h1>
 
 

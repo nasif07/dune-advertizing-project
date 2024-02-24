@@ -6,7 +6,7 @@ import socialIcon from "../assets/icon-for-services/Glyph.svg"
 import dollarIcon from "../assets/icon-for-services/dollarIcon.svg"
 const Services = () => {
     return (
-        <div className="bg-white py-[50px] md:py-[130px] max-w-[1160px] mx-auto px-4 md:px-10 space-x-8">
+        <div className="bg-white py-[50px] md:py-[130px] max-w-[1160px] mx-auto px-4 md:px-10 font-DM_sans">
             <div className="grid grid-cols-1 md:grid-cols-3 lg:grid-cols-4 gap-8">
                 <div className="col-span-1 md:col-span-3 lg:col-span-2 max-w-[390px]">
                     <h1 className="text-[#0D0D0D] text-[40px]  leading-tight">Our Digital <br /> Marketing Expertise</h1>

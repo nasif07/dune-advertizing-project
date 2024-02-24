@@ -1,6 +1,7 @@
 import About from "./Sections/AboutUs"
 import Banner from "./Sections/Banner"
 import ContactForm from "./Sections/ContactForm"
+import Project from "./Sections/Project"
 import Services from "./Sections/Services"
 import Testimonials from "./Sections/Testimonials"
 function App() {
@@ -10,7 +11,9 @@ function App() {
       <Services></Services>
       <About></About>
       <Testimonials></Testimonials>
+      <Project></Project>
       <ContactForm></ContactForm>
+      
     </>
   )
 }

@@ -3,8 +3,8 @@ const ContactForm = () => {
         outline: 'none'
     }
     return (
-        <section id="contact" className="md:pt-12 px-4 md:px-10 bg-white">
-            <div className=" max-w-[1160px] mx-auto bg-[#FFF4E2] rounded-[52px] py-[50px] md:py-[100px] px-2 md:px-8 lg:px-[50px] mb-[150px]">
+        <section id="contact" className=" px-4 md:px-10 bg-white py-[100px] font-DM_sans">
+            <div className=" max-w-[1160px] mx-auto bg-[#FFF4E2] rounded-[52px] py-[50px] md:py-[100px] px-2 md:px-8 lg:px-[50px]">
             <div className="md:flex gap-2 lg:gap-8">
                 <div data-aos="fade-up" data-aos-duration="1000">
                     <p className="text-[#FAC66B] text-[20px]">Your info</p>
