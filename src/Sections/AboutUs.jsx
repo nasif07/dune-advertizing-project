@@ -33,19 +33,6 @@ const About = () => {
             Proven Success: <span className="font-normal">Track record of driving results</span>
             </h4>
             </div>
-            <div className="pt-[54px]">
-              <a href="#contact">
-                <button
-                  style={{
-                    background:
-                      "linear-gradient(214deg, #FADE84 -51.05%, #FAB55A 94.68%)",
-                  }}
-                  className="px-[30px] py-[14px]  text-[#0D0D0D] rounded-full font-bold text-[16px]   hover:scale-105 duration-300"
-                >
-                  Contact us
-                </button>
-              </a>
-            </div>
           </div>
         </div>
       </div>

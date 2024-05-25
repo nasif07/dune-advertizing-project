@@ -26,7 +26,7 @@ const ContactForm = () => {
                         <div>
                             <input style={inputStyle} type="text" placeholder="Website URL..." className="input rounded-full w-full  h-[55px] bg-light-gray pl-5" />
                         </div>
-                        <button className="bg-[#facc71] w-full py-[18px] text-white rounded-full font-bold text-[16px]">Get started now!</button>
+                        <button className="bg-[#C9864F] w-full py-[18px] text-white rounded-full font-bold text-[16px]">Get started now!</button>
                     </form>
                 </div>
             </div>
