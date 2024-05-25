@@ -8,6 +8,11 @@ export default {
     extend: {
       fontFamily: {
         DM_sans: "'DM Sans', sans-serif"
+      },
+      colors: {
+        'primary': '#C9864F',
+        'dark-gray': '#151414',
+        'light-gray': '#1D1C1C'
       }
     },
   },

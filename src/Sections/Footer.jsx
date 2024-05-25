@@ -1,7 +1,7 @@
 
 const Footer = () => {
     return (
-        <div className="min-h-[250px] bg-[#272932]">
+        <div className="min-h-[250px] bg-dark-gray">
             
         </div>
     );
