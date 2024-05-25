@@ -7,7 +7,8 @@ export default {
   theme: {
     extend: {
       fontFamily: {
-        DM_sans: "'DM Sans', sans-serif"
+        DM_sans: "'DM Sans', sans-serif",
+        Inter: "'Inter', sans-serif"
       },
       colors: {
         'primary': '#C9864F',

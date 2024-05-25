@@ -1,3 +1,4 @@
+import Reviews from "./Sections/reviews"
 import About from "./Sections/AboutUs"
 import Banner from "./Sections/Banner"
 import ContactForm from "./Sections/ContactForm"
@@ -9,11 +10,11 @@ function App() {
   return (
     <>
       <Banner></Banner>
+      <Reviews></Reviews>
       <Services></Services>
       <About></About>
       <Testimonials></Testimonials>
-      <Project></Project>
-      <ContactForm></ContactForm>
+      {/* <ContactForm></ContactForm> */}
       <Footer></Footer>
     </>
   )
